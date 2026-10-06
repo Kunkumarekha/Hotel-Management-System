@@ -91,8 +91,6 @@ Check-out
        ↓
 Generate Bill
 
-
-```text
 ## 📋 Main Menu
 1. Show All Rooms
 2. Show Available Rooms
