@@ -90,3 +90,49 @@ Add Food / Services
 Check-out
        ↓
 Generate Bill
+📋 Main Menu
+1. Show All Rooms
+2. Show Available Rooms
+3. Show Food/Service Menu
+4. Register Customer
+5. Book Room
+6. Check-in
+7. Add Food/Service
+8. Check-out & Generate Bill
+9. Booking History
+10. Cancel Booking
+11. Exit
+
+## ▶️ How to Run
+1. Install Python
+Make sure Python 3 is installed on your system.
+2. Clone the Repository
+git clone <your-github-repository-url>
+
+3. Open the Project Folder
+cd hotel-reservation-system
+
+4. Run the Program
+python hotel.py
+
+The SQLite database will be created automatically when the application starts.
+## 🎯 Learning Outcomes
+Through this project, I practiced:
+- Python programming
+- Functions
+- Conditional statements
+- Loops
+- Exception handling
+- SQLite database operations
+- SQL queries
+- CRUD operations
+- Primary and foreign keys
+- Table relationships
+- Date validation
+- Data validation
+- Real-world project workflow
+## 👩‍💻 Author
+Kunkumarekha Udayana
+B.Tech – Electronics & Communication Engineering
+Python | SQL | SQLite | MySQL
+```
