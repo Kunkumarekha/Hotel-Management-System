@@ -117,24 +117,22 @@ cd hotel-reservation-system
 4. Run the Program
 python hotel.py
 
-The SQLite database will be created automatically when the application starts.
-## 🎯 Learning Outcomes
-Through this project, I practiced:
-- Python programming
-- Functions
-- Conditional statements
-- Loops
-- Exception handling
-- SQLite database operations
-- SQL queries
-- CRUD operations
-- Primary and foreign keys
-- Table relationships
-- Date validation
-- Data validation
-- Real-world project workflow
-## 👩‍💻 Author
+🎯 Learning Outcomes
+Python Programming
+Practiced Python fundamentals including functions, loops, conditional statements, and exception handling.
+SQLite Database
+Learned how to create tables, insert data, update records, retrieve data, and manage a SQLite database using Python.
+SQL Queries
+Practiced SQL operations such as SELECT, INSERT, and UPDATE, along with joins and filtering.
+CRUD Operations
+Implemented Create, Read, Update, and Delete-style database operations for managing hotel data.
+Database Relationships
+Worked with primary keys and foreign keys to establish relationships between customers, rooms, bookings, and services.
+Data Validation
+Implemented validation for customer details, booking information, and check-in/check-out dates.
+Real-World Application
+Built a practical hotel reservation system that demonstrates how Python and databases can be combined to solve a real-world problem.
+👩‍💻 Author
 Kunkumarekha Udayana
 B.Tech – Electronics & Communication Engineering
 Python | SQL | SQLite | MySQL
-```
