@@ -1,9 +1,12 @@
 🏨 Hotel Reservation System
+
 A Python and SQLite-based Hotel Reservation System that manages rooms, customers, bookings, hotel services, check-in/check-out, billing, booking cancellation, and booking history.
 📌 Project Overview
+
 This project is a console-based hotel management application developed using Python and SQLite. It provides a simple way to manage hotel room reservations and customer services through a menu-driven interface.
 The application uses SQLite database tables for rooms, customers, bookings, food/services, and service selections.    Pasted markdown
 🚀 Features
+
 - View all hotel rooms
 - View available rooms
 - View food and service menu
@@ -20,11 +23,13 @@ The application uses SQLite database tables for rooms, customers, bookings, food
 - Store all data in SQLite database
 The main menu provides these operations through 11 options.    Pasted markdown
 🛠️ Technologies Used
+
 - Python 3
 - SQLite3
 - SQL
 - Datetime module
 🗄️ Database
+
 The project uses SQLite with the database:
 hotel_v2.db
 
@@ -36,6 +41,7 @@ The system creates and manages tables for:
 - Services
 Foreign keys are enabled to maintain relationships between the tables.    Pasted markdown
 🏨 Room Types
+
 The system contains predefined rooms such as:
 - Single
 - Double
@@ -43,6 +49,7 @@ The system contains predefined rooms such as:
 - Suite
 with different room prices.    Pasted markdown
 🍽️ Hotel Services
+
 Available services include:
 - Breakfast
 - Lunch
@@ -52,6 +59,7 @@ Available services include:
 - Extra Room Cleaning
    Pasted markdown
 🔄 Booking Workflow
+
 Register Customer
        ↓
 Select Room
@@ -72,6 +80,7 @@ Generate Bill
 
 The system validates dates and prevents overlapping bookings for the same room.    Pasted markdown    Pasted markdown
 💰 Billing
+
 During checkout, the system calculates:
 - Number of nights
 - Room charges
@@ -87,6 +96,7 @@ python hotel.py
 
 The SQLite database will be created automatically when the application starts.
 📋 Main Menu
+
 1. Show All Rooms
 2. Show Available Rooms
 3. Show Food/Service Menu
@@ -100,6 +110,7 @@ The SQLite database will be created automatically when the application starts.
 11. Exit
 
 🎯 Learning Outcomes
+
 Through this project, I practiced:
 - Python programming
 - Functions
