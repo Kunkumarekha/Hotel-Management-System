@@ -90,3 +90,10 @@ Add Food / Services
 Check-out
        ↓
 Generate Bill
+
+
+## 👩‍💻 Author
+Kunkumarekha Udayana
+B.Tech – Electronics & Communication Engineering
+Python | SQL | SQLite | MySQL
+```
