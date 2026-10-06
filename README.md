@@ -90,7 +90,9 @@ Add Food / Services
 Check-out
        ↓
 Generate Bill
-📋 Main Menu
+
+
+## 📋 Main Menu
 1. Show All Rooms
 2. Show Available Rooms
 3. Show Food/Service Menu
